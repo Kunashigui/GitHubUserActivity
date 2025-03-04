@@ -7,8 +7,6 @@ import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.net.HttpURLConnection;
 import java.net.URL;
-//mvn compile exec:java -Dexec.mainClass=
-//mvn exec:java -Dexec.mainClass="com.challenge.Main" -Dexec.args=\"username\"
 
 public class Main {
     static String GIT_URL = "https://api.github.com/users/<username>/events"; // URL de la API de GitHub
