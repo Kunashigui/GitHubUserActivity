@@ -31,7 +31,7 @@ A simple command-line interface to fetch and display recent activity of any GitH
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/Kunashigui/GitHubUserActivity.git
-cd github-activity-cli
+cd GitHubUserActivity
 ```
 
 ### 2. Run the application
